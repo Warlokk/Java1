@@ -7,8 +7,8 @@
 На тестирование затрачено: 0.5 часа
 
 В результате тестирования выявлены следующие дефекты:
-*  https://github.com/Warlokk/Java1/issues/1
-*  https://github.com/Warlokk/Java1/issues/2
+*  [Неверная валидация ключей](https://github.com/Warlokk/Java1/issues/1)
+*  [Нет подсказки при неверном вводе ключа](https://github.com/Warlokk/Java1/issues/2)
 
 
 ## Описание процесса тестирования
