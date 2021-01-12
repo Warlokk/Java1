@@ -14,11 +14,11 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* Test-case tc-1
-* Test-case tc-2
-* Test-case tc-3
-* Test-case tc-4
-* Test-case tc-5
+* [Test-case tc-1](https://github.com/Warlokk/Java1/blob/master/tc1.md)
+* [Test-case tc-2](https://github.com/Warlokk/Java1/blob/master/tc2.md)
+* [Test-case tc-3](https://github.com/Warlokk/Java1/blob/master/tc3.md)
+* [Test-case tc-4](https://github.com/Warlokk/Java1/blob/master/tc4.md)
+* [Test-case tc-5](https://github.com/Warlokk/Java1/blob/master/tc5.md)
 
 
 В качестве тестовых данных использовались данные из "Руководства использования KeyValidator":
