@@ -7,17 +7,18 @@
 На тестирование затрачено: 0.5 часа
 
 В результате тестирования выявлены следующие дефекты:
-*  
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+*  https://github.com/Warlokk/Java1/issues/1
+*  https://github.com/Warlokk/Java1/issues/2
+
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* Test-case tc1
-* Test-case tc2
-* Test-case tc3
-* Test-case tc3
+* Test-case tc-1
+* Test-case tc-2
+* Test-case tc-3
+* Test-case tc-4
+* Test-case tc-5
 
 
 В качестве тестовых данных использовались данные из "Руководства использования KeyValidator":
